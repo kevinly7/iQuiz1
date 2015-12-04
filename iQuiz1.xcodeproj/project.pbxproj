@@ -485,6 +485,7 @@
 				AADE480A1C1170B100B0D11E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AADE480B1C1170B100B0D11E /* Build configuration list for PBXNativeTarget "iQuiz1Tests" */ = {
 			isa = XCConfigurationList;
@@ -493,6 +494,7 @@
 				AADE480D1C1170B100B0D11E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AADE480E1C1170B100B0D11E /* Build configuration list for PBXNativeTarget "iQuiz1UITests" */ = {
 			isa = XCConfigurationList;
@@ -501,6 +503,7 @@
 				AADE48101C1170B100B0D11E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
